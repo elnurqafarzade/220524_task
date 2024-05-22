@@ -1,0 +1,14 @@
+C:\Users\FA507XV\source\repos\22052024_task\bin\Debug\net8.0\22052024_task.exe
+C:\Users\FA507XV\source\repos\22052024_task\bin\Debug\net8.0\22052024_task.deps.json
+C:\Users\FA507XV\source\repos\22052024_task\bin\Debug\net8.0\22052024_task.runtimeconfig.json
+C:\Users\FA507XV\source\repos\22052024_task\bin\Debug\net8.0\22052024_task.dll
+C:\Users\FA507XV\source\repos\22052024_task\bin\Debug\net8.0\22052024_task.pdb
+C:\Users\FA507XV\source\repos\22052024_task\obj\Debug\net8.0\22052024_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\source\repos\22052024_task\obj\Debug\net8.0\22052024_task.AssemblyInfoInputs.cache
+C:\Users\FA507XV\source\repos\22052024_task\obj\Debug\net8.0\22052024_task.AssemblyInfo.cs
+C:\Users\FA507XV\source\repos\22052024_task\obj\Debug\net8.0\22052024_task.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\source\repos\22052024_task\obj\Debug\net8.0\22052024_task.dll
+C:\Users\FA507XV\source\repos\22052024_task\obj\Debug\net8.0\refint\22052024_task.dll
+C:\Users\FA507XV\source\repos\22052024_task\obj\Debug\net8.0\22052024_task.pdb
+C:\Users\FA507XV\source\repos\22052024_task\obj\Debug\net8.0\22052024_task.genruntimeconfig.cache
+C:\Users\FA507XV\source\repos\22052024_task\obj\Debug\net8.0\ref\22052024_task.dll
